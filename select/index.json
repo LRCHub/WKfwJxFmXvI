@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ハゼ馳せる果てるまで(抗いハゼフライ定食) (本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE)",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-02-17T02:22:15.221725Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ハゼ馳せる果てるまで",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_05_ハゼ馳せる果てるまで_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
